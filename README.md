@@ -62,7 +62,8 @@ for word in sorted(reduced):
 ```
 ## OUTPUT:
 
-<img width="1085" height="677" alt="632733474-bb15dc26-6853-4e6c-a9c0-1f07f25575ab" src="https://github.com/user-attachments/assets/c39fbf86-de26-488a-9b45-a8b03873de09" />
+
+<img width="1588" height="991" alt="image" src="https://github.com/user-attachments/assets/c521be48-0123-46bd-bb81-d7e6bc6a8013" />
 
 ## RESULT:
 
